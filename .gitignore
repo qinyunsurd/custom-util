@@ -6,8 +6,12 @@ out/
 .iml
 .idea
 .idea/
-
-
+.gradle
+gradle
+/gradlew.bat
+/gradlew
+build/
+!gradle/wrapper/gradle-wrapper.jar
 # Log file
 *.log
 
